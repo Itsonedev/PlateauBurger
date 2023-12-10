@@ -1,0 +1,53 @@
+/* style.css */
+
+body {
+    margin: 0;
+    background-color: lightgray;
+  }
+  
+  header {
+    background-color: #343a40;
+    color: white;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+  }
+
+  a{
+    text-decoration: none;
+  }
+  
+  
+  header h2 {
+    margin: 0;
+  }
+  
+  header button {
+    align-self: start;
+  }
+  
+  footer {
+    padding: 1rem;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+  }
+  
+  .card {
+    margin-bottom: 1rem;
+  }
+  
+  .card h5 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .card hr {
+    margin: 3.0rem 0;
+    color: aliceblue;
+  }
+
+  
+
+
+  
